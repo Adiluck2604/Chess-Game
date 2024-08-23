@@ -12,4 +12,4 @@ Instructions:
    python main.py
 
 
-I utilized Pygame to create the chessboard and pieces, implementing precise movement rules for each chess piece. Advanced features such as en passant, castling, and pawn promotion were integrated to enrich gameplay. Strategic check and checkmate detection mechanisms were also implemented to enhance the overall gaming experience.
+Using Pygame, I created a fully functional chessboard and pieces, implementing precise movement rules for each type of chess piece. To enhance the gameplay experience, I integrated advanced features including en passant, castling, and pawn promotion. These additions bring depth and realism to the game, making it more engaging for players. Also, I implemented strategic mechanisms to detect check and checkmate scenarios, ensuring that the game accurately reflects critical moments in chess. 
