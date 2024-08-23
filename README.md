@@ -6,8 +6,7 @@ Instructions:
    pip install pygame
    
 2. Clone the Repository:
-   git clone https://github.com/sanika-14/python-chess-with-pygame
-   cd chess-game-pygame
+   git clone  https://github.com/Adiluck2604/Chess-Game.git
    
 3. Run the Game:
    python main.py
